@@ -1,0 +1,44 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f6f6f6;
+  color: #333;
+}
+.hero {
+  background-color: #101B2D;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+.call-button {
+  background-color: #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 0.75rem 1.5rem;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+.subtitle {
+  margin-top: 0.5rem;
+}
+.hero-image {
+  width: 300px;
+  margin-top: 1rem;
+}
+.features, .installation {
+  background-color: white;
+  padding: 2rem 1rem;
+  margin: 1rem auto;
+  max-width: 800px;
+  border-radius: 10px;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  background-color: #101B2D;
+  color: white;
+}
